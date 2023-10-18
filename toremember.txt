@@ -1,0 +1,48 @@
+. image sprites
+. zoom effect
+. parallax
+. pulse colors background
+. fullscreen landing
+. image slider
+. pop up boxes
+. changing images on hover
+. patrick benske
+. collapsing header 
+. navigation bar fixed
+. navigation transparent
+. full screen landing page
+. how to make a slide out navigation with HTML/CSS
+. leveluptuts
+. pulsing button
+. accordion 
+. card flipping
+. sliding door reveal
+. slide over menu
+. push over menu
+. css experiments
+. dropdown menu
+. images hovers tricks
+. awesome css3 3d image slider with flickr
+. css project , image links that enlarge when you hover
+. image hover effect ( circle caption ) css - for price
+. Create a Login Form with HTML & CSS
+. How to design social media buttons(Icons) using HTML & CSS How To Add Hover Effect To Social Media Buttons Using CSS3
+. cool fixed background effect
+. Parallax Scrolling using JavaScript
+. Step progress bar Tutorial, CSS.
+. 5 Cool CSS Loading Animation You should Check out 
+	1) http://tympanus.net/codrops/2014/04/2...
+	2) http://tobiasahlin.com/spinkit/
+	3) http://tympanus.net/codrops/2014/08/0...
+	4) http://codepen.io/brycesnyder/pen/GpRYWV
+	5) https://connoratherton.com/loaders
+. button ripple effect
+. animated toggle switches
+. codepen  
+. wow.js
+. dlsud.edu
+. footer
+. adam khoury
+. order form page
+. JAVASCRIPT BEER ORDER FORM
+. header	
